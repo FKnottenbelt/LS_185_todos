@@ -1,0 +1,3 @@
+Updating the Sinatra Todo webapp to use a SQL database to store list
+and todo data instead of the user's session, creating an
+API for the Sinatra app to talk to.
